@@ -1,0 +1,12 @@
+
+.top-player img{
+    width: 56px;
+    height: 56px;
+}
+hr{
+    width: 90%;
+    margin: auto;
+}
+.row p{
+    font-weight: 600;
+}

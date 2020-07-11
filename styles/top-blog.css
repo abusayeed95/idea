@@ -1,0 +1,15 @@
+.top-blog img{
+    width: 177px;
+    height: 117px;
+}
+.top-blog .link{
+    text-decoration: none;
+    color: #562EFF;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+.top-blog .link:hover{
+    text-decoration: none;
+    color: #3d14f5;
+    font-weight: 700;
+}

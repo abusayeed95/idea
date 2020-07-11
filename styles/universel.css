@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-body{
+    background-color: #E5E5E5;
+}
+.topplayer-and-topblog{
+    background-color: #ffffff;
+    margin: 0rem 12rem;
+    border-radius: 1%;
+    background-clip: border-box;
+}
+
